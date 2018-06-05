@@ -1,0 +1,1 @@
+# How-to-use-the-parameters-when-routing-in-angularjs
